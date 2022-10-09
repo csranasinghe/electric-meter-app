@@ -1,0 +1,401 @@
+﻿Province,usage,rain fall type,sky type,wind direction,wind speed,humidity,Temperature,elevation,radiation,Vapor Pressure,Surface Temperature,Atmosphere Pressure,Bulbs,Fan,Iron,TV,Refrigerator,Blender,Air conditioner,Water Heater,Microwave Oven,Rice Cooker
+Colombo,2.8816332357kWh,Rain,Sunny,South West,2(m/s),71%,27c,1m,2.68kWh/m2,3.4231426702kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+Galle,2.8983772645kWh,Rain,Little Cloudy,West,5(m/s),74%,30c,0m,3.96kWh/m2,3.8304936714kPa,32c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+Kurunegala,2.8236712166kWh,None,Cloudy,South West,4.5(m/s),63%,31c,116m,2.71kWh/m2,3.7817209873kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Jaffna,3.2017316938kWh,Rain,Cloudy,South West,10.8(m/s),74%,28c,5m,3.85kWh/m2,3.5458316928kPa,30c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+Trincomalee,3.0804092243kWh,Rain,Little Cloudy,South West,8(m/s),56%,30c,8m,3.75kWh/m2,4.7090495112kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+Galle,3.183353511kWh,Rain,Cloudy,West,5(m/s),74%,26c,0m,3.61kWh/m2,4.1213407747kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Anuradhapura,3.1766000091kWh,None,Cloudy,South West,8(m/s),54%,30c,81m,3.61kWh/m2,4.6125672027kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Anuradhapura,3.070669386kWh,None,Sunny,South West,8(m/s),54%,26c,81m,3.97kWh/m2,4.4649846721kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Kurunegala,2.8310358861kWh,Rain,Little Cloudy,South West,4.5(m/s),63%,24c,116m,2.97kWh/m2,2.8103412037kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Badulla,2.0200456797kWh,Rain,Cloudy,North West,1.5(m/s),46%,22c,680m,3.88kWh/m2,3.7749532516kPa,24c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Galle,3.0761766034kWh,Rain,Little Cloudy,West,5(m/s),74%,27c,0m,3.61kWh/m2,3.3436401418kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Galle,2.552462754kWh,Rain,Sunny,West,5(m/s),74%,28c,0m,3.93kWh/m2,4.0903065442kPa,29c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+Galle,2.7208237152kWh,None,Little Cloudy,West,5(m/s),74%,26c,0m,3.7kWh/m2,3.7120115697kPa,27c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Badulla,1.948320477kWh,Rain,Little Cloudy,North West,1.5(m/s),46%,22c,680m,3.86kWh/m2,3.0771115475kPa,24c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Kurunegala,2.8892527752kWh,Rain,Little Cloudy,South West,4.5(m/s),63%,24c,116m,2.72kWh/m2,3.0132905318kPa,25c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Ratnapura,3.2566056445kWh,Rain,Cloudy,West,4(m/s),71%,23c,130m,2.66kWh/m2,4.4457767365kPa,25c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Trincomalee,3.0171197931kWh,Rain,Cloudy,South West,8(m/s),56%,28c,8m,3.65kWh/m2,4.3394625663kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+Galle,3.1393207057kWh,None,Sunny,West,5(m/s),74%,30c,0m,3.57kWh/m2,3.2573468189kPa,32c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Jaffna,2.8214407318kWh,None,Sunny,South West,10.8(m/s),74%,29c,5m,3.61kWh/m2,4.0997708944kPa,30c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Galle,2.7825614076kWh,Rain,Sunny,West,5(m/s),74%,26c,0m,3.56kWh/m2,3.4106174553kPa,27c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Galle,2.7509432551kWh,None,Sunny,West,5(m/s),74%,26c,0m,3.63kWh/m2,3.6208593662kPa,27c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+Kandy,2.177713455kWh,None,Sunny,South West,4(m/s),66%,21c,500m,2.56kWh/m2,3.419207622kPa,22c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Ratnapura,3.2216916693kWh,None,Sunny,West,4(m/s),71%,28c,130m,2.65kWh/m2,4.0955805326kPa,30c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Colombo,2.878787951kWh,Rain,Little Cloudy,South West,2(m/s),71%,29c,1m,2.95kWh/m2,3.5078029814kPa,31c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Trincomalee,2.8662236065kWh,None,Cloudy,South West,8(m/s),56%,29c,8m,3.66kWh/m2,4.0736408126kPa,31c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Kandy,2.0379626967kWh,Rain,Sunny,South West,4(m/s),66%,29c,500m,2.99kWh/m2,2.6797801754kPa,30c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Badulla,2.1107398769kWh,Rain,Cloudy,North West,1.5(m/s),46%,27c,680m,3.78kWh/m2,3.2505586863kPa,28c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Kurunegala,2.8781766874kWh,None,Sunny,South West,4.5(m/s),63%,31c,116m,2.55kWh/m2,3.0843405485kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Colombo,3.0131096798kWh,None,Little Cloudy,South West,2(m/s),71%,29c,1m,2.6kWh/m2,3.3041218969kPa,31c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Badulla,2.0793566595kWh,Rain,Little Cloudy,North West,1.5(m/s),46%,26c,680m,3.61kWh/m2,3.7140449442kPa,27c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+Jaffna,3.4807525136kWh,Rain,Cloudy,South West,10.8(m/s),74%,29c,5m,3.61kWh/m2,3.9850977801kPa,30c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Trincomalee,2.8872209933kWh,None,Sunny,South West,8(m/s),56%,26c,8m,3.97kWh/m2,4.4990057964kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Badulla,2.0962946123kWh,Rain,Sunny,North West,1.5(m/s),46%,27c,680m,3.55kWh/m2,2.5183582776kPa,29c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Ratnapura,2.7546361171kWh,None,Sunny,West,4(m/s),71%,30c,130m,2.98kWh/m2,4.0301217181kPa,32c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Badulla,2.0215302453kWh,None,Cloudy,North West,1.5(m/s),46%,21c,680m,3.71kWh/m2,3.3795264343kPa,22c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Jaffna,3.0061236184kWh,None,Cloudy,South West,10.8(m/s),74%,25c,5m,3.88kWh/m2,4.2203775431kPa,27c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+Kurunegala,2.4751994614kWh,None,Little Cloudy,South West,4.5(m/s),63%,23c,116m,2.88kWh/m2,3.3922522046kPa,25c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Badulla,1.6044737987kWh,None,Sunny,North West,1.5(m/s),46%,28c,680m,3.86kWh/m2,2.9351328092kPa,29c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+Kurunegala,2.9697095393kWh,Rain,Little Cloudy,South West,4.5(m/s),63%,30c,116m,2.75kWh/m2,4.2346905595kPa,31c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+Colombo,2.7707352028kWh,None,Sunny,South West,2(m/s),71%,30c,1m,2.98kWh/m2,3.1928962883kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+Kandy,1.9096594263kWh,Rain,Sunny,South West,4(m/s),66%,27c,500m,2.59kWh/m2,3.5449535873kPa,28c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+Badulla,1.8519615602kWh,Rain,Cloudy,North West,1.5(m/s),46%,22c,680m,3.56kWh/m2,3.6325660439kPa,24c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Trincomalee,3.2439931002kWh,None,Little Cloudy,South West,8(m/s),56%,31c,8m,3.51kWh/m2,3.6487245583kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Badulla,1.6251866183kWh,None,Sunny,North West,1.5(m/s),46%,27c,680m,3.86kWh/m2,3.2037018973kPa,29c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Colombo,2.6395107952kWh,Rain,Cloudy,South West,2(m/s),71%,29c,1m,2.7kWh/m2,3.8356287002kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Colombo,2.6823697726kWh,Rain,Cloudy,South West,2(m/s),71%,25c,1m,2.71kWh/m2,4.1674894469kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Kurunegala,2.4421434034kWh,None,Little Cloudy,South West,4.5(m/s),63%,23c,116m,2.83kWh/m2,4.2812065014kPa,24c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+Kandy,2.3985081752kWh,Rain,Little Cloudy,South West,4(m/s),66%,25c,500m,2.86kWh/m2,3.6863096814kPa,27c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Galle,2.5655806925kWh,Rain,Little Cloudy,West,5(m/s),74%,27c,0m,3.91kWh/m2,3.5856743295kPa,29c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Ratnapura,3.0428372521kWh,None,Little Cloudy,West,4(m/s),71%,23c,130m,2.55kWh/m2,4.0103610436kPa,24c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Badulla,2.0348978113kWh,Rain,Sunny,North West,1.5(m/s),46%,27c,680m,4.0kWh/m2,2.6613160566kPa,29c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Galle,2.6580761102kWh,None,Sunny,West,5(m/s),74%,29c,0m,3.63kWh/m2,3.6577068809kPa,31c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Badulla,2.1962678434kWh,Rain,Sunny,North West,1.5(m/s),46%,23c,680m,3.55kWh/m2,2.7432282187kPa,24c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Colombo,3.1988756197kWh,None,Little Cloudy,South West,2(m/s),71%,28c,1m,2.72kWh/m2,4.1914137981kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Trincomalee,3.5552826608kWh,Rain,Little Cloudy,South West,8(m/s),56%,28c,8m,3.81kWh/m2,3.596819055kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Kurunegala,2.7396401402kWh,None,Cloudy,South West,4.5(m/s),63%,28c,116m,2.52kWh/m2,3.7285416402kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Ratnapura,3.0213329058kWh,None,Sunny,West,4(m/s),71%,25c,130m,2.58kWh/m2,3.8034765087kPa,26c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Colombo,2.5095907472kWh,None,Sunny,South West,2(m/s),71%,26c,1m,2.84kWh/m2,3.5856802658kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Ratnapura,3.2142171744kWh,None,Cloudy,West,4(m/s),71%,31c,130m,2.97kWh/m2,4.3744524023kPa,33c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Galle,3.21511965kWh,None,Sunny,West,5(m/s),74%,30c,0m,3.51kWh/m2,3.564752795kPa,31c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+Anuradhapura,3.0524500571kWh,Rain,Sunny,South West,8(m/s),54%,24c,81m,3.66kWh/m2,4.7301707858kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Colombo,3.1580037391kWh,None,Cloudy,South West,2(m/s),71%,27c,1m,2.97kWh/m2,3.5036682039kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Kurunegala,2.8661807674kWh,None,Little Cloudy,South West,4.5(m/s),63%,24c,116m,2.82kWh/m2,3.9893791371kPa,25c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+Ratnapura,3.2193615199kWh,Rain,Cloudy,West,4(m/s),71%,31c,130m,2.79kWh/m2,4.0807857704kPa,33c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Badulla,2.1371777874kWh,Rain,Sunny,North West,1.5(m/s),46%,25c,680m,3.56kWh/m2,2.6520746562kPa,27c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Badulla,1.6288147037kWh,Rain,Cloudy,North West,1.5(m/s),46%,20c,680m,3.69kWh/m2,2.491598546kPa,22c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+Colombo,2.8832521393kWh,Rain,Sunny,South West,2(m/s),71%,26c,1m,2.52kWh/m2,3.5373741102kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+Anuradhapura,2.7690190498kWh,None,Cloudy,South West,8(m/s),54%,32c,81m,3.74kWh/m2,3.0609506619kPa,34c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Trincomalee,3.2914811839kWh,None,Cloudy,South West,8(m/s),56%,27c,8m,3.81kWh/m2,4.6649127768kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Anuradhapura,2.8240357562kWh,None,Little Cloudy,South West,8(m/s),54%,26c,81m,3.6kWh/m2,3.0025085779kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Colombo,3.2616019017kWh,Rain,Cloudy,South West,2(m/s),71%,29c,1m,2.77kWh/m2,3.4673978235kPa,31c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+Jaffna,3.3132263965kWh,Rain,Sunny,South West,10.8(m/s),74%,26c,5m,3.57kWh/m2,3.177601039kPa,27c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Galle,2.5191601887kWh,None,Little Cloudy,West,5(m/s),74%,25c,0m,3.71kWh/m2,3.79173291kPa,27c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Kandy,2.373951174kWh,Rain,Cloudy,South West,4(m/s),66%,29c,500m,2.96kWh/m2,2.6659180916kPa,30c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Kurunegala,2.5615164392kWh,None,Sunny,South West,4.5(m/s),63%,26c,116m,2.8kWh/m2,3.5108214947kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Badulla,1.9979607323kWh,None,Little Cloudy,North West,1.5(m/s),46%,28c,680m,3.59kWh/m2,3.0198735842kPa,30c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Galle,2.9068925812kWh,Rain,Cloudy,West,5(m/s),74%,26c,0m,3.92kWh/m2,3.9008965405kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Badulla,1.6765666146kWh,Rain,Cloudy,North West,1.5(m/s),46%,24c,680m,3.83kWh/m2,3.2222502158kPa,26c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Colombo,3.1447281686kWh,None,Little Cloudy,South West,2(m/s),71%,27c,1m,2.52kWh/m2,3.1959271656kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+Badulla,1.7752966875kWh,None,Little Cloudy,North West,1.5(m/s),46%,21c,680m,3.98kWh/m2,3.6748949848kPa,22c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+Kandy,2.3243346659kWh,Rain,Little Cloudy,South West,4(m/s),66%,23c,500m,2.66kWh/m2,3.5335366713kPa,24c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Kandy,2.138051202kWh,Rain,Little Cloudy,South West,4(m/s),66%,28c,500m,2.66kWh/m2,3.6285894248kPa,29c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Colombo,2.4456296622kWh,Rain,Sunny,South West,2(m/s),71%,29c,1m,2.72kWh/m2,3.9965502194kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Jaffna,2.783943936kWh,None,Little Cloudy,South West,10.8(m/s),74%,31c,5m,3.55kWh/m2,3.8668392062kPa,32c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+Colombo,3.2047606811kWh,None,Little Cloudy,South West,2(m/s),71%,30c,1m,2.63kWh/m2,3.2923499118kPa,31c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+Anuradhapura,3.2897752082kWh,Rain,Cloudy,South West,8(m/s),54%,27c,81m,3.54kWh/m2,3.783105542kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Trincomalee,3.0250372302kWh,None,Little Cloudy,South West,8(m/s),56%,28c,8m,3.79kWh/m2,3.7599027026kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Jaffna,3.2350004219kWh,Rain,Cloudy,South West,10.8(m/s),74%,27c,5m,3.57kWh/m2,3.8479312953kPa,29c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+Kandy,1.9841486517kWh,Rain,Cloudy,South West,4(m/s),66%,26c,500m,2.81kWh/m2,3.0920146415kPa,27c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Trincomalee,3.2757667844kWh,Rain,Cloudy,South West,8(m/s),56%,25c,8m,3.96kWh/m2,3.1699913249kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Badulla,1.9253032287kWh,None,Cloudy,North West,1.5(m/s),46%,26c,680m,3.71kWh/m2,2.8586380898kPa,28c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Galle,2.9829544526kWh,Rain,Little Cloudy,West,5(m/s),74%,26c,0m,3.83kWh/m2,3.7308193716kPa,27c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Ratnapura,2.8996736577kWh,None,Little Cloudy,West,4(m/s),71%,27c,130m,2.92kWh/m2,3.7462525987kPa,29c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+Galle,2.8046780802kWh,Rain,Cloudy,West,5(m/s),74%,26c,0m,3.94kWh/m2,3.7673150435kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Kandy,1.9472547994kWh,Rain,Cloudy,South West,4(m/s),66%,27c,500m,2.82kWh/m2,3.2753542296kPa,28c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Jaffna,3.1958748946kWh,Rain,Little Cloudy,South West,10.8(m/s),74%,27c,5m,3.55kWh/m2,3.316693145kPa,29c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+Kurunegala,3.2664012248kWh,None,Little Cloudy,South West,4.5(m/s),63%,26c,116m,2.98kWh/m2,3.9805192708kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Kandy,2.0933777247kWh,None,Cloudy,South West,4(m/s),66%,26c,500m,2.94kWh/m2,3.7201170189kPa,28c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Kurunegala,3.0728530979kWh,Rain,Sunny,South West,4.5(m/s),63%,31c,116m,2.55kWh/m2,3.2059300543kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Kandy,2.1345650094kWh,None,Cloudy,South West,4(m/s),66%,25c,500m,2.58kWh/m2,3.1758008635kPa,27c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Kurunegala,2.4527760124kWh,Rain,Cloudy,South West,4.5(m/s),63%,26c,116m,2.94kWh/m2,3.7129852682kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Anuradhapura,3.0840235294kWh,Rain,Cloudy,South West,8(m/s),54%,27c,81m,3.59kWh/m2,3.5275921645kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Jaffna,3.545742981kWh,None,Little Cloudy,South West,10.8(m/s),74%,27c,5m,3.53kWh/m2,4.2737980366kPa,28c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+Anuradhapura,3.2735213119kWh,None,Cloudy,South West,8(m/s),54%,24c,81m,3.56kWh/m2,3.1408323848kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Kandy,2.3678660307kWh,Rain,Little Cloudy,South West,4(m/s),66%,29c,500m,2.99kWh/m2,3.6484050924kPa,30c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Jaffna,3.0261487271kWh,None,Cloudy,South West,10.8(m/s),74%,30c,5m,3.83kWh/m2,3.9394999422kPa,31c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+Ratnapura,3.310360556kWh,None,Cloudy,West,4(m/s),71%,27c,130m,2.9kWh/m2,4.0552325787kPa,29c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Kandy,1.9206318502kWh,Rain,Cloudy,South West,4(m/s),66%,28c,500m,2.73kWh/m2,2.538938717kPa,30c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Colombo,2.6776298632kWh,Rain,Cloudy,South West,2(m/s),71%,27c,1m,2.67kWh/m2,3.2108936418kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+Kurunegala,2.7767929534kWh,Rain,Sunny,South West,4.5(m/s),63%,31c,116m,2.74kWh/m2,4.199021448kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+Trincomalee,3.5625515057kWh,None,Cloudy,South West,8(m/s),56%,26c,8m,3.67kWh/m2,4.7354366107kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Galle,2.8669315655kWh,Rain,Cloudy,West,5(m/s),74%,25c,0m,3.6kWh/m2,3.2974130776kPa,27c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Jaffna,3.4316066686kWh,Rain,Little Cloudy,South West,10.8(m/s),74%,25c,5m,3.83kWh/m2,3.6919324558kPa,26c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Kandy,2.0691303074kWh,None,Little Cloudy,South West,4(m/s),66%,25c,500m,2.67kWh/m2,2.7119795337kPa,26c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Anuradhapura,2.8651466537kWh,None,Cloudy,South West,8(m/s),54%,24c,81m,3.9kWh/m2,4.8521469069kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Kurunegala,2.654704834kWh,None,Little Cloudy,South West,4.5(m/s),63%,28c,116m,2.94kWh/m2,3.8458680917kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+Kandy,2.0705601941kWh,None,Cloudy,South West,4(m/s),66%,26c,500m,2.83kWh/m2,3.2036253835kPa,27c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Trincomalee,3.3330219755kWh,None,Sunny,South West,8(m/s),56%,32c,8m,3.76kWh/m2,4.3636325585kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Colombo,2.7241452582kWh,None,Little Cloudy,South West,2(m/s),71%,28c,1m,2.86kWh/m2,4.0988498272kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+Anuradhapura,2.7431653454kWh,None,Cloudy,South West,8(m/s),54%,27c,81m,3.97kWh/m2,4.1986980724kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+Jaffna,3.4673220911kWh,None,Little Cloudy,South West,10.8(m/s),74%,27c,5m,3.86kWh/m2,4.4459379924kPa,28c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+Trincomalee,3.0689469524kWh,None,Sunny,South West,8(m/s),56%,30c,8m,3.66kWh/m2,3.4084974094kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Galle,3.0440041765kWh,Rain,Cloudy,West,5(m/s),74%,29c,0m,3.79kWh/m2,4.1472602412kPa,31c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Galle,2.5072205363kWh,Rain,Little Cloudy,West,5(m/s),74%,28c,0m,3.85kWh/m2,4.2107676102kPa,30c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Trincomalee,3.5483723469kWh,Rain,Cloudy,South West,8(m/s),56%,30c,8m,3.93kWh/m2,3.8481646757kPa,31c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+Kandy,2.4035350025kWh,None,Sunny,South West,4(m/s),66%,26c,500m,2.6kWh/m2,2.5195929744kPa,28c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+Kurunegala,2.4082636067kWh,Rain,Little Cloudy,South West,4.5(m/s),63%,31c,116m,2.95kWh/m2,3.7339403007kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Galle,2.5804320924kWh,Rain,Sunny,West,5(m/s),74%,30c,0m,3.69kWh/m2,3.6005101059kPa,32c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+Badulla,2.0657883652kWh,Rain,Cloudy,North West,1.5(m/s),46%,22c,680m,3.68kWh/m2,3.0546309737kPa,23c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Kandy,2.0267359527kWh,Rain,Cloudy,South West,4(m/s),66%,24c,500m,2.95kWh/m2,2.8526219363kPa,26c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Galle,3.0095742544kWh,Rain,Cloudy,West,5(m/s),74%,26c,0m,3.96kWh/m2,3.371917333kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+Colombo,2.5284727891kWh,Rain,Cloudy,South West,2(m/s),71%,26c,1m,2.79kWh/m2,3.5785496548kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Galle,2.5036785236kWh,Rain,Cloudy,West,5(m/s),74%,26c,0m,3.98kWh/m2,3.206504103kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Ratnapura,2.7940657081kWh,None,Sunny,West,4(m/s),71%,23c,130m,2.71kWh/m2,4.2773966336kPa,24c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Ratnapura,3.4142601173kWh,Rain,Little Cloudy,West,4(m/s),71%,23c,130m,2.63kWh/m2,4.3414191432kPa,24c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Colombo,3.2480885718kWh,None,Sunny,South West,2(m/s),71%,29c,1m,2.93kWh/m2,3.2310894223kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Galle,2.5313031425kWh,Rain,Sunny,West,5(m/s),74%,26c,0m,3.82kWh/m2,3.9724473485kPa,27c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Anuradhapura,2.4312840913kWh,None,Sunny,South West,8(m/s),54%,28c,81m,3.66kWh/m2,4.5263774376kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Galle,3.2155551684kWh,Rain,Sunny,West,5(m/s),74%,30c,0m,3.87kWh/m2,3.4139626227kPa,31c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Galle,2.5687123321kWh,Rain,Sunny,West,5(m/s),74%,29c,0m,3.75kWh/m2,3.8331705802kPa,31c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+Kurunegala,3.280114054kWh,Rain,Cloudy,South West,4.5(m/s),63%,25c,116m,2.59kWh/m2,4.1876319975kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Trincomalee,3.5869515611kWh,None,Little Cloudy,South West,8(m/s),56%,26c,8m,3.55kWh/m2,3.6674137134kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Galle,3.0352170896kWh,None,Little Cloudy,West,5(m/s),74%,28c,0m,3.56kWh/m2,3.7316066958kPa,29c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Galle,3.0160367965kWh,None,Sunny,West,5(m/s),74%,26c,0m,3.96kWh/m2,3.5103347906kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Jaffna,3.0519483317kWh,None,Cloudy,South West,10.8(m/s),74%,29c,5m,3.73kWh/m2,3.2216241388kPa,30c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Anuradhapura,2.8691101292kWh,None,Little Cloudy,South West,8(m/s),54%,27c,81m,3.72kWh/m2,3.2059312703kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+Anuradhapura,2.4861690996kWh,None,Cloudy,South West,8(m/s),54%,31c,81m,3.84kWh/m2,4.5000826631kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Trincomalee,3.290502881kWh,None,Little Cloudy,South West,8(m/s),56%,31c,8m,3.58kWh/m2,4.3826926809kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Kandy,1.949816653kWh,None,Sunny,South West,4(m/s),66%,28c,500m,2.66kWh/m2,2.546312365kPa,30c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Colombo,3.1124606727kWh,Rain,Sunny,South West,2(m/s),71%,25c,1m,2.74kWh/m2,3.6441089294kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Colombo,3.0101855874kWh,None,Sunny,South West,2(m/s),71%,25c,1m,2.95kWh/m2,3.3286072148kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Colombo,3.088135679kWh,Rain,Little Cloudy,South West,2(m/s),71%,26c,1m,2.71kWh/m2,4.0547056281kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Jaffna,3.0701545562kWh,None,Sunny,South West,10.8(m/s),74%,30c,5m,3.67kWh/m2,4.1278093685kPa,31c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Galle,2.9420837924kWh,None,Little Cloudy,West,5(m/s),74%,26c,0m,4.0kWh/m2,3.790556914kPa,27c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Colombo,2.9919926975kWh,Rain,Little Cloudy,South West,2(m/s),71%,28c,1m,2.73kWh/m2,3.304042665kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Trincomalee,3.0677017337kWh,None,Cloudy,South West,8(m/s),56%,28c,8m,3.62kWh/m2,4.6176800785kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Kandy,2.1314206203kWh,Rain,Little Cloudy,South West,4(m/s),66%,21c,500m,2.52kWh/m2,3.26422813kPa,23c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+Kandy,2.4332716807kWh,None,Cloudy,South West,4(m/s),66%,23c,500m,2.84kWh/m2,2.5608047046kPa,25c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Kandy,2.2185864975kWh,None,Cloudy,South West,4(m/s),66%,27c,500m,2.84kWh/m2,2.4925933518kPa,29c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Kurunegala,2.5067975967kWh,None,Cloudy,South West,4.5(m/s),63%,26c,116m,2.89kWh/m2,3.0562511035kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Kurunegala,3.1239656729kWh,Rain,Cloudy,South West,4.5(m/s),63%,28c,116m,2.73kWh/m2,4.311034481kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Kurunegala,2.683987459kWh,Rain,Cloudy,South West,4.5(m/s),63%,28c,116m,2.53kWh/m2,4.0349021604kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Colombo,2.6883629296kWh,None,Sunny,South West,2(m/s),71%,27c,1m,2.85kWh/m2,4.0389757602kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Jaffna,3.3113116035kWh,Rain,Little Cloudy,South West,10.8(m/s),74%,25c,5m,3.73kWh/m2,3.4554738742kPa,26c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Badulla,1.9420233138kWh,None,Sunny,North West,1.5(m/s),46%,27c,680m,3.88kWh/m2,2.6851900494kPa,29c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Ratnapura,3.4634763936kWh,Rain,Little Cloudy,West,4(m/s),71%,29c,130m,2.9kWh/m2,4.174729145kPa,30c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Colombo,2.5307369324kWh,Rain,Little Cloudy,South West,2(m/s),71%,27c,1m,2.77kWh/m2,4.0153121884kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Galle,2.6356810578kWh,None,Little Cloudy,West,5(m/s),74%,26c,0m,3.97kWh/m2,4.0274687989kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Anuradhapura,2.827534826kWh,None,Little Cloudy,South West,8(m/s),54%,24c,81m,3.94kWh/m2,3.2071906972kPa,25c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Kandy,2.2038412536kWh,None,Sunny,South West,4(m/s),66%,27c,500m,2.82kWh/m2,2.8381410054kPa,29c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Badulla,2.0769591863kWh,Rain,Sunny,North West,1.5(m/s),46%,22c,680m,3.73kWh/m2,2.9165178901kPa,24c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Colombo,2.5915899038kWh,None,Cloudy,South West,2(m/s),71%,30c,1m,2.86kWh/m2,4.1431060581kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Colombo,2.6309161567kWh,None,Little Cloudy,South West,2(m/s),71%,26c,1m,2.79kWh/m2,3.5665007624kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Galle,2.6901825316kWh,None,Little Cloudy,West,5(m/s),74%,26c,0m,3.83kWh/m2,3.5708124704kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Ratnapura,3.1542251343kWh,None,Cloudy,West,4(m/s),71%,24c,130m,2.55kWh/m2,4.4032922225kPa,25c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Jaffna,3.0029620984kWh,Rain,Little Cloudy,South West,10.8(m/s),74%,28c,5m,3.51kWh/m2,4.4381094351kPa,29c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Anuradhapura,2.9415591631kWh,Rain,Sunny,South West,8(m/s),54%,30c,81m,3.8kWh/m2,4.8024085688kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Colombo,2.4422931576kWh,Rain,Sunny,South West,2(m/s),71%,30c,1m,2.78kWh/m2,3.5641189965kPa,31c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Trincomalee,3.5563448747kWh,Rain,Little Cloudy,South West,8(m/s),56%,29c,8m,3.59kWh/m2,3.623434012kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Galle,2.6748367015kWh,Rain,Little Cloudy,West,5(m/s),74%,26c,0m,4.0kWh/m2,3.363853242kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+Kandy,2.2299627957kWh,Rain,Cloudy,South West,4(m/s),66%,26c,500m,2.69kWh/m2,3.6629102434kPa,27c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+Ratnapura,3.2695968544kWh,None,Cloudy,West,4(m/s),71%,31c,130m,2.54kWh/m2,4.4506200059kPa,32c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Colombo,2.9140914224kWh,None,Little Cloudy,South West,2(m/s),71%,26c,1m,2.56kWh/m2,3.2425201384kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Jaffna,3.0270226779kWh,Rain,Sunny,South West,10.8(m/s),74%,27c,5m,3.52kWh/m2,4.2543769537kPa,28c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+Kandy,2.3296634907kWh,Rain,Little Cloudy,South West,4(m/s),66%,24c,500m,2.87kWh/m2,2.9076510493kPa,25c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Galle,3.0192491294kWh,Rain,Cloudy,West,5(m/s),74%,29c,0m,3.78kWh/m2,4.0368180933kPa,31c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Kurunegala,2.9261780094kWh,Rain,Cloudy,South West,4.5(m/s),63%,25c,116m,2.84kWh/m2,3.7188106927kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Trincomalee,3.1258506159kWh,None,Little Cloudy,South West,8(m/s),56%,32c,8m,3.91kWh/m2,4.6932891844kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+Trincomalee,2.8257148168kWh,None,Cloudy,South West,8(m/s),56%,26c,8m,3.79kWh/m2,4.5146577751kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Ratnapura,3.2432348954kWh,None,Little Cloudy,West,4(m/s),71%,29c,130m,2.54kWh/m2,4.0580350521kPa,30c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+Badulla,1.9817498739kWh,None,Sunny,North West,1.5(m/s),46%,23c,680m,3.95kWh/m2,2.4131180945kPa,24c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Ratnapura,3.1085028626kWh,Rain,Little Cloudy,West,4(m/s),71%,25c,130m,2.71kWh/m2,4.2618274647kPa,26c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Kandy,2.4942927742kWh,Rain,Sunny,South West,4(m/s),66%,29c,500m,2.95kWh/m2,3.6363893536kPa,30c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Kurunegala,3.0230351931kWh,None,Cloudy,South West,4.5(m/s),63%,23c,116m,2.67kWh/m2,2.8834949998kPa,25c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+Ratnapura,3.0091531317kWh,Rain,Sunny,West,4(m/s),71%,26c,130m,2.94kWh/m2,4.0116934036kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+Colombo,3.1042967603kWh,Rain,Little Cloudy,South West,2(m/s),71%,28c,1m,2.73kWh/m2,3.3938716462kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Trincomalee,2.7339577551kWh,Rain,Cloudy,South West,8(m/s),56%,31c,8m,3.73kWh/m2,4.0956858976kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Kandy,2.4099949084kWh,None,Sunny,South West,4(m/s),66%,22c,500m,2.99kWh/m2,3.6955938129kPa,24c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Kandy,2.3262108712kWh,None,Little Cloudy,South West,4(m/s),66%,29c,500m,2.76kWh/m2,3.3933350245kPa,30c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+Ratnapura,2.7351716958kWh,None,Sunny,West,4(m/s),71%,23c,130m,2.73kWh/m2,4.1548330361kPa,24c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Kurunegala,3.2388860741kWh,Rain,Cloudy,South West,4.5(m/s),63%,24c,116m,2.99kWh/m2,3.6243435577kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+Colombo,3.0332966239kWh,Rain,Sunny,South West,2(m/s),71%,26c,1m,3.0kWh/m2,3.2747872911kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+Trincomalee,3.5993266172kWh,Rain,Cloudy,South West,8(m/s),56%,25c,8m,3.77kWh/m2,3.219266016kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Colombo,2.917599246kWh,None,Little Cloudy,South West,2(m/s),71%,25c,1m,2.73kWh/m2,3.6566872762kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Kurunegala,3.0764912205kWh,None,Sunny,South West,4.5(m/s),63%,25c,116m,2.77kWh/m2,3.5239262556kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Galle,3.1525675831kWh,None,Cloudy,West,5(m/s),74%,27c,0m,3.92kWh/m2,3.2172840828kPa,29c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Trincomalee,3.5200809526kWh,Rain,Little Cloudy,South West,8(m/s),56%,25c,8m,3.73kWh/m2,4.4148151025kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Kurunegala,3.0594029411kWh,None,Sunny,South West,4.5(m/s),63%,25c,116m,2.52kWh/m2,2.8399896098kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+Galle,2.5859678254kWh,Rain,Little Cloudy,West,5(m/s),74%,25c,0m,3.78kWh/m2,3.4097225175kPa,27c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Kurunegala,2.9257647307kWh,None,Little Cloudy,South West,4.5(m/s),63%,30c,116m,2.67kWh/m2,3.964831017kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+Jaffna,2.7413456602kWh,None,Sunny,South West,10.8(m/s),74%,25c,5m,3.94kWh/m2,4.2744680187kPa,27c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Jaffna,2.9636261643kWh,None,Cloudy,South West,10.8(m/s),74%,30c,5m,3.6kWh/m2,3.2311450014kPa,32c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Galle,2.6305161506kWh,None,Little Cloudy,West,5(m/s),74%,28c,0m,3.68kWh/m2,3.6394404712kPa,30c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+Kandy,2.3346473363kWh,None,Little Cloudy,South West,4(m/s),66%,28c,500m,2.51kWh/m2,3.4311318424kPa,29c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Colombo,2.5780066207kWh,Rain,Cloudy,South West,2(m/s),71%,25c,1m,2.61kWh/m2,3.9986483464kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Anuradhapura,2.5245255183kWh,None,Sunny,South West,8(m/s),54%,27c,81m,3.67kWh/m2,4.2439332272kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+Colombo,3.0849531646kWh,None,Cloudy,South West,2(m/s),71%,28c,1m,2.81kWh/m2,3.4310069561kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Badulla,1.6979486355kWh,None,Little Cloudy,North West,1.5(m/s),46%,20c,680m,3.68kWh/m2,3.7633551801kPa,22c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Anuradhapura,3.2935963553kWh,None,Little Cloudy,South West,8(m/s),54%,24c,81m,3.92kWh/m2,4.5457289495kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Badulla,1.905875004kWh,None,Sunny,North West,1.5(m/s),46%,21c,680m,3.52kWh/m2,3.0872277603kPa,23c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Colombo,3.0019329439kWh,None,Cloudy,South West,2(m/s),71%,25c,1m,2.66kWh/m2,3.1853359307kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Kandy,2.3091841913kWh,None,Cloudy,South West,4(m/s),66%,26c,500m,2.52kWh/m2,3.2756918511kPa,28c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+Trincomalee,3.4859090109kWh,None,Little Cloudy,South West,8(m/s),56%,31c,8m,3.67kWh/m2,3.9703976714kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+Kurunegala,2.4377147836kWh,None,Cloudy,South West,4.5(m/s),63%,26c,116m,2.76kWh/m2,2.8581048715kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+Colombo,2.4731843705kWh,None,Cloudy,South West,2(m/s),71%,25c,1m,2.6kWh/m2,3.5707385472kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Ratnapura,3.2893735486kWh,Rain,Cloudy,West,4(m/s),71%,24c,130m,2.89kWh/m2,4.0632455178kPa,25c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Kandy,1.9024961316kWh,None,Cloudy,South West,4(m/s),66%,22c,500m,2.52kWh/m2,3.2406710625kPa,24c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Colombo,2.4227097225kWh,Rain,Little Cloudy,South West,2(m/s),71%,26c,1m,2.86kWh/m2,3.5903954445kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+Kandy,2.0486210426kWh,None,Cloudy,South West,4(m/s),66%,23c,500m,2.98kWh/m2,2.8683734157kPa,24c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+Anuradhapura,3.0545760748kWh,None,Cloudy,South West,8(m/s),54%,31c,81m,3.75kWh/m2,3.0825659071kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Kurunegala,2.8672248107kWh,Rain,Sunny,South West,4.5(m/s),63%,26c,116m,2.98kWh/m2,3.0341199589kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Galle,2.5955875268kWh,Rain,Little Cloudy,West,5(m/s),74%,28c,0m,3.71kWh/m2,3.303716301kPa,30c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Anuradhapura,3.2116312046kWh,Rain,Sunny,South West,8(m/s),54%,28c,81m,3.62kWh/m2,4.1348616594kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+Anuradhapura,3.0368752104kWh,Rain,Sunny,South West,8(m/s),54%,28c,81m,3.69kWh/m2,3.4138052889kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Galle,2.615576571kWh,None,Cloudy,West,5(m/s),74%,26c,0m,3.5kWh/m2,3.4955881511kPa,27c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+Ratnapura,3.2050726318kWh,None,Little Cloudy,West,4(m/s),71%,27c,130m,2.87kWh/m2,4.151874837kPa,29c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Ratnapura,3.2361306913kWh,Rain,Sunny,West,4(m/s),71%,30c,130m,2.79kWh/m2,4.4458211974kPa,32c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+Kurunegala,3.2541435862kWh,None,Cloudy,South West,4.5(m/s),63%,27c,116m,2.72kWh/m2,3.2885108141kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Galle,2.5317238687kWh,None,Little Cloudy,West,5(m/s),74%,28c,0m,3.6kWh/m2,4.2085985328kPa,29c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Ratnapura,2.9001934111kWh,Rain,Little Cloudy,West,4(m/s),71%,25c,130m,2.59kWh/m2,3.8661383261kPa,27c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Badulla,1.9643324381kWh,None,Sunny,North West,1.5(m/s),46%,26c,680m,3.74kWh/m2,3.0155453598kPa,27c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+Ratnapura,3.0030290105kWh,Rain,Cloudy,West,4(m/s),71%,24c,130m,2.67kWh/m2,4.3834581728kPa,26c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Jaffna,2.9695222478kWh,None,Little Cloudy,South West,10.8(m/s),74%,25c,5m,3.79kWh/m2,3.9001368488kPa,27c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Galle,3.1849402375kWh,Rain,Cloudy,West,5(m/s),74%,27c,0m,3.95kWh/m2,3.5274930829kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+Anuradhapura,3.0987539386kWh,Rain,Sunny,South West,8(m/s),54%,29c,81m,3.69kWh/m2,3.9502577609kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Ratnapura,3.2493419953kWh,Rain,Sunny,West,4(m/s),71%,24c,130m,2.78kWh/m2,4.0624436047kPa,26c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Galle,3.2156079505kWh,None,Little Cloudy,West,5(m/s),74%,30c,0m,3.82kWh/m2,3.6540660704kPa,31c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Jaffna,2.7744399313kWh,None,Little Cloudy,South West,10.8(m/s),74%,31c,5m,3.63kWh/m2,3.5878610908kPa,33c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Kurunegala,2.9087106726kWh,None,Cloudy,South West,4.5(m/s),63%,24c,116m,2.75kWh/m2,3.0320778152kPa,25c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Trincomalee,3.2132958999kWh,None,Sunny,South West,8(m/s),56%,27c,8m,3.52kWh/m2,3.5395554975kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Jaffna,3.5698533kWh,None,Sunny,South West,10.8(m/s),74%,25c,5m,3.52kWh/m2,3.7690855737kPa,27c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Kandy,2.2541961959kWh,Rain,Little Cloudy,South West,4(m/s),66%,27c,500m,2.67kWh/m2,3.2148928403kPa,28c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+Jaffna,2.8902880308kWh,None,Sunny,South West,10.8(m/s),74%,26c,5m,3.95kWh/m2,3.322335791kPa,27c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Kandy,2.116059906kWh,Rain,Sunny,South West,4(m/s),66%,22c,500m,2.55kWh/m2,2.5424158497kPa,23c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Anuradhapura,2.5241201845kWh,None,Little Cloudy,South West,8(m/s),54%,33c,81m,3.84kWh/m2,3.4687742974kPa,35c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Anuradhapura,2.6772179841kWh,Rain,Little Cloudy,South West,8(m/s),54%,28c,81m,3.63kWh/m2,3.3464274936kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Ratnapura,3.0370900455kWh,Rain,Little Cloudy,West,4(m/s),71%,29c,130m,2.67kWh/m2,4.085345165kPa,31c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Galle,3.0013510662kWh,None,Sunny,West,5(m/s),74%,28c,0m,3.78kWh/m2,3.3824473909kPa,30c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Ratnapura,3.0782190189kWh,None,Cloudy,West,4(m/s),71%,26c,130m,2.84kWh/m2,4.4351013514kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Trincomalee,3.4187683282kWh,Rain,Little Cloudy,South West,8(m/s),56%,31c,8m,3.68kWh/m2,4.1798206756kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Ratnapura,3.2791019778kWh,None,Little Cloudy,West,4(m/s),71%,27c,130m,2.88kWh/m2,3.7852096403kPa,29c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Jaffna,3.2148966939kWh,Rain,Cloudy,South West,10.8(m/s),74%,30c,5m,3.82kWh/m2,4.3992819046kPa,31c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Kandy,1.9029058742kWh,Rain,Sunny,South West,4(m/s),66%,24c,500m,2.53kWh/m2,3.6754935885kPa,26c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+Kurunegala,2.875984862kWh,Rain,Cloudy,South West,4.5(m/s),63%,23c,116m,2.65kWh/m2,2.9661300659kPa,24c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+Ratnapura,2.9220879813kWh,None,Little Cloudy,West,4(m/s),71%,30c,130m,2.96kWh/m2,3.6895400347kPa,31c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+Kurunegala,3.2419501102kWh,Rain,Sunny,South West,4.5(m/s),63%,23c,116m,2.57kWh/m2,2.8741808463kPa,25c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+Badulla,1.806454612kWh,None,Little Cloudy,North West,1.5(m/s),46%,28c,680m,3.77kWh/m2,2.8330783861kPa,29c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Anuradhapura,3.2446990894kWh,Rain,Little Cloudy,South West,8(m/s),54%,32c,81m,3.59kWh/m2,4.8475962452kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Galle,3.1803554361kWh,None,Little Cloudy,West,5(m/s),74%,26c,0m,3.53kWh/m2,3.5334025007kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+Kurunegala,2.7074448023kWh,Rain,Cloudy,South West,4.5(m/s),63%,25c,116m,2.97kWh/m2,2.8737878906kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Kandy,1.9152526154kWh,None,Sunny,South West,4(m/s),66%,22c,500m,2.97kWh/m2,3.1958785024kPa,24c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Ratnapura,3.2029184023kWh,Rain,Sunny,West,4(m/s),71%,31c,130m,2.69kWh/m2,3.6869469582kPa,33c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Colombo,2.6809766286kWh,Rain,Cloudy,South West,2(m/s),71%,29c,1m,2.8kWh/m2,3.7100882534kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Badulla,1.9827561484kWh,Rain,Sunny,North West,1.5(m/s),46%,20c,680m,3.69kWh/m2,2.4855433907kPa,21c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Ratnapura,3.3241573075kWh,None,Sunny,West,4(m/s),71%,23c,130m,2.5kWh/m2,3.6333028982kPa,24c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Ratnapura,3.5083459186kWh,Rain,Cloudy,West,4(m/s),71%,28c,130m,2.57kWh/m2,4.2184474833kPa,30c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Ratnapura,2.7701884394kWh,None,Cloudy,West,4(m/s),71%,30c,130m,2.57kWh/m2,4.2539113522kPa,31c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+Colombo,3.2417321618kWh,Rain,Cloudy,South West,2(m/s),71%,28c,1m,2.62kWh/m2,4.0987318468kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Jaffna,2.9797314703kWh,Rain,Sunny,South West,10.8(m/s),74%,26c,5m,3.57kWh/m2,4.2290899108kPa,27c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Ratnapura,2.9474455981kWh,None,Cloudy,West,4(m/s),71%,25c,130m,2.51kWh/m2,4.1534539142kPa,26c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Ratnapura,2.7409328629kWh,Rain,Sunny,West,4(m/s),71%,25c,130m,2.6kWh/m2,4.1025497873kPa,27c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+Galle,3.0218826905kWh,None,Sunny,West,5(m/s),74%,25c,0m,3.53kWh/m2,4.1695135916kPa,26c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Anuradhapura,2.8304988623kWh,None,Cloudy,South West,8(m/s),54%,28c,81m,3.61kWh/m2,3.2389852431kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Trincomalee,3.1264134108kWh,None,Cloudy,South West,8(m/s),56%,30c,8m,3.94kWh/m2,3.5704185893kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Ratnapura,2.9915855732kWh,None,Sunny,West,4(m/s),71%,23c,130m,2.54kWh/m2,4.1652029478kPa,24c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+Badulla,1.7639125311kWh,None,Sunny,North West,1.5(m/s),46%,27c,680m,3.67kWh/m2,3.3156060965kPa,28c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Colombo,3.0845829944kWh,Rain,Little Cloudy,South West,2(m/s),71%,26c,1m,2.69kWh/m2,3.771652148kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Ratnapura,3.5373287147kWh,Rain,Sunny,West,4(m/s),71%,29c,130m,2.66kWh/m2,4.3864855079kPa,30c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Galle,3.1953742359kWh,Rain,Sunny,West,5(m/s),74%,26c,0m,3.81kWh/m2,3.6056010372kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Colombo,2.9108184502kWh,None,Sunny,South West,2(m/s),71%,28c,1m,2.71kWh/m2,3.8683978814kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+Kurunegala,3.215303083kWh,None,Little Cloudy,South West,4.5(m/s),63%,27c,116m,2.97kWh/m2,3.130402186kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Galle,3.0626232131kWh,None,Cloudy,West,5(m/s),74%,28c,0m,3.67kWh/m2,3.8863718554kPa,29c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Trincomalee,3.2658206245kWh,Rain,Sunny,South West,8(m/s),56%,25c,8m,3.93kWh/m2,4.3079094693kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Kurunegala,2.8083476772kWh,Rain,Cloudy,South West,4.5(m/s),63%,31c,116m,2.56kWh/m2,3.152677195kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Anuradhapura,2.7772114744kWh,Rain,Little Cloudy,South West,8(m/s),54%,32c,81m,3.6kWh/m2,4.8111055984kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Ratnapura,2.8854483738kWh,None,Cloudy,West,4(m/s),71%,26c,130m,2.56kWh/m2,3.7825569234kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+Anuradhapura,3.1997615879kWh,None,Little Cloudy,South West,8(m/s),54%,28c,81m,3.83kWh/m2,4.0426076092kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+Jaffna,2.9867618745kWh,None,Cloudy,South West,10.8(m/s),74%,27c,5m,3.7kWh/m2,4.452115899kPa,29c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+Ratnapura,3.1616289539kWh,None,Little Cloudy,West,4(m/s),71%,27c,130m,2.87kWh/m2,3.6810681845kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Kurunegala,2.5646203175kWh,None,Cloudy,South West,4.5(m/s),63%,29c,116m,2.64kWh/m2,3.3817110226kPa,31c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+Galle,3.0188972978kWh,Rain,Sunny,West,5(m/s),74%,26c,0m,3.68kWh/m2,3.6839101123kPa,27c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Badulla,1.6680535825kWh,Rain,Sunny,North West,1.5(m/s),46%,22c,680m,3.72kWh/m2,2.4299260713kPa,24c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+Anuradhapura,2.5262645931kWh,None,Little Cloudy,South West,8(m/s),54%,24c,81m,3.64kWh/m2,3.5236284655kPa,25c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Kandy,2.1539461614kWh,Rain,Sunny,South West,4(m/s),66%,26c,500m,2.82kWh/m2,3.682536994kPa,28c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Jaffna,3.2502937435kWh,None,Little Cloudy,South West,10.8(m/s),74%,28c,5m,3.91kWh/m2,4.237705504kPa,29c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Trincomalee,3.3947999043kWh,None,Little Cloudy,South West,8(m/s),56%,32c,8m,3.51kWh/m2,3.6155485437kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Anuradhapura,3.2185074993kWh,None,Little Cloudy,South West,8(m/s),54%,28c,81m,3.82kWh/m2,3.7969205256kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Kandy,2.0086695987kWh,None,Little Cloudy,South West,4(m/s),66%,26c,500m,3.0kWh/m2,3.2159893707kPa,28c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Ratnapura,2.78229146kWh,Rain,Sunny,West,4(m/s),71%,23c,130m,2.61kWh/m2,4.4466522553kPa,24c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Badulla,1.9331924729kWh,Rain,Cloudy,North West,1.5(m/s),46%,28c,680m,3.75kWh/m2,3.2987792533kPa,29c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Colombo,3.0724045762kWh,None,Cloudy,South West,2(m/s),71%,26c,1m,3.0kWh/m2,4.1280656886kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+Kandy,1.9454042484kWh,Rain,Sunny,South West,4(m/s),66%,22c,500m,2.52kWh/m2,2.9695850491kPa,24c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Jaffna,2.9679765503kWh,Rain,Little Cloudy,South West,10.8(m/s),74%,31c,5m,3.88kWh/m2,4.0719226678kPa,33c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Anuradhapura,2.8191931592kWh,None,Cloudy,South West,8(m/s),54%,31c,81m,3.93kWh/m2,3.324584809kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Colombo,2.7664411226kWh,None,Cloudy,South West,2(m/s),71%,26c,1m,2.98kWh/m2,3.9502710435kPa,27c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+Badulla,1.65494593kWh,Rain,Cloudy,North West,1.5(m/s),46%,28c,680m,3.98kWh/m2,2.8296052442kPa,30c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Badulla,2.1397280049kWh,None,Sunny,North West,1.5(m/s),46%,21c,680m,3.79kWh/m2,3.2098616209kPa,22c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Galle,2.9438006298kWh,Rain,Sunny,West,5(m/s),74%,29c,0m,3.79kWh/m2,3.6302769953kPa,31c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+Kurunegala,2.9879238473kWh,None,Little Cloudy,South West,4.5(m/s),63%,30c,116m,2.92kWh/m2,3.3205901837kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Badulla,1.8091215572kWh,Rain,Cloudy,North West,1.5(m/s),46%,27c,680m,3.69kWh/m2,2.5767010733kPa,28c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Kandy,2.2991109936kWh,None,Little Cloudy,South West,4(m/s),66%,27c,500m,2.92kWh/m2,3.6614324853kPa,29c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Badulla,1.9131787625kWh,Rain,Cloudy,North West,1.5(m/s),46%,27c,680m,3.56kWh/m2,2.6351752564kPa,28c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+Galle,2.6647434257kWh,Rain,Little Cloudy,West,5(m/s),74%,27c,0m,3.77kWh/m2,3.6690718799kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Jaffna,3.1041226895kWh,None,Sunny,South West,10.8(m/s),74%,26c,5m,3.66kWh/m2,4.3301308753kPa,27c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Jaffna,3.5721293141kWh,None,Sunny,South West,10.8(m/s),74%,26c,5m,3.95kWh/m2,4.2327837285kPa,28c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+Colombo,2.5071642004kWh,None,Cloudy,South West,2(m/s),71%,27c,1m,2.7kWh/m2,3.3670116997kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+Badulla,2.0243311396kWh,None,Little Cloudy,North West,1.5(m/s),46%,25c,680m,3.69kWh/m2,3.0444129464kPa,26c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Trincomalee,3.0453232721kWh,None,Sunny,South West,8(m/s),56%,29c,8m,3.51kWh/m2,3.6831756413kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Colombo,2.6822247943kWh,Rain,Little Cloudy,South West,2(m/s),71%,29c,1m,2.91kWh/m2,3.655012384kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes
+Jaffna,2.8502717457kWh,None,Cloudy,South West,10.8(m/s),74%,27c,5m,3.71kWh/m2,3.9463298058kPa,28c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+Kurunegala,2.8291504983kWh,None,Cloudy,South West,4.5(m/s),63%,25c,116m,2.84kWh/m2,3.031261116kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Trincomalee,3.24506647kWh,None,Little Cloudy,South West,8(m/s),56%,28c,8m,3.75kWh/m2,4.6581740707kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Kurunegala,2.7367194375kWh,Rain,Little Cloudy,South West,4.5(m/s),63%,24c,116m,2.86kWh/m2,4.2019444059kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Colombo,2.764795775kWh,None,Cloudy,South West,2(m/s),71%,27c,1m,2.77kWh/m2,3.8081662056kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes
+Ratnapura,3.3676387441kWh,None,Cloudy,West,4(m/s),71%,29c,130m,2.99kWh/m2,4.3984130282kPa,30c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Jaffna,2.800945245kWh,Rain,Little Cloudy,South West,10.8(m/s),74%,25c,5m,3.82kWh/m2,3.6990226425kPa,27c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+Kandy,2.0821494805kWh,None,Sunny,South West,4(m/s),66%,26c,500m,2.87kWh/m2,3.4721394279kPa,28c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Kurunegala,2.5057109341kWh,Rain,Little Cloudy,South West,4.5(m/s),63%,28c,116m,2.72kWh/m2,4.399110929kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+Colombo,2.6037795313kWh,None,Little Cloudy,South West,2(m/s),71%,28c,1m,2.52kWh/m2,3.6685613658kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Anuradhapura,2.6686940588kWh,Rain,Sunny,South West,8(m/s),54%,28c,81m,3.77kWh/m2,3.2809101132kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Ratnapura,3.5305814612kWh,None,Sunny,West,4(m/s),71%,28c,130m,2.93kWh/m2,4.1488196832kPa,29c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+Colombo,2.8763762475kWh,Rain,Sunny,South West,2(m/s),71%,28c,1m,2.71kWh/m2,3.7755763998kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes
+Anuradhapura,2.7636518516kWh,Rain,Little Cloudy,South West,8(m/s),54%,28c,81m,3.82kWh/m2,3.6076197209kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Trincomalee,3.3656665928kWh,None,Cloudy,South West,8(m/s),56%,32c,8m,3.87kWh/m2,4.0289155008kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Galle,3.0767237867kWh,Rain,Sunny,West,5(m/s),74%,27c,0m,3.82kWh/m2,3.3548220176kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes
+Badulla,1.8766979877kWh,Rain,Sunny,North West,1.5(m/s),46%,23c,680m,3.9kWh/m2,2.5420579297kPa,25c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Colombo,3.2260508319kWh,Rain,Little Cloudy,South West,2(m/s),71%,29c,1m,2.81kWh/m2,3.3955172165kPa,31c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Trincomalee,3.2190056093kWh,Rain,Sunny,South West,8(m/s),56%,32c,8m,3.61kWh/m2,3.9783955936kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Colombo,3.2354925651kWh,None,Sunny,South West,2(m/s),71%,29c,1m,2.51kWh/m2,4.1158844439kPa,31c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+Trincomalee,3.2665395084kWh,None,Little Cloudy,South West,8(m/s),56%,27c,8m,3.98kWh/m2,4.1057558245kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+Badulla,1.6991101778kWh,Rain,Cloudy,North West,1.5(m/s),46%,21c,680m,3.88kWh/m2,3.1632639724kPa,23c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+Jaffna,3.082834353kWh,None,Sunny,South West,10.8(m/s),74%,28c,5m,3.51kWh/m2,3.381673394kPa,30c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Badulla,2.1638242996kWh,None,Sunny,North West,1.5(m/s),46%,22c,680m,3.81kWh/m2,2.9245284292kPa,24c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Trincomalee,3.4290504774kWh,None,Sunny,South West,8(m/s),56%,25c,8m,3.65kWh/m2,4.4708960497kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No
+Badulla,1.6705651861kWh,Rain,Little Cloudy,North West,1.5(m/s),46%,21c,680m,3.59kWh/m2,3.4063855042kPa,22c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Anuradhapura,3.2739763461kWh,Rain,Little Cloudy,South West,8(m/s),54%,26c,81m,3.59kWh/m2,3.0281654973kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+Ratnapura,3.2785727954kWh,None,Cloudy,West,4(m/s),71%,30c,130m,2.55kWh/m2,4.0585146743kPa,31c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Jaffna,3.1834082619kWh,None,Cloudy,South West,10.8(m/s),74%,25c,5m,3.82kWh/m2,3.9061505561kPa,27c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Badulla,1.9666799369kWh,None,Cloudy,North West,1.5(m/s),46%,20c,680m,3.86kWh/m2,3.4084107219kPa,21c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Anuradhapura,3.2146841958kWh,Rain,Sunny,South West,8(m/s),54%,33c,81m,3.65kWh/m2,3.6680058731kPa,35c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+Trincomalee,3.1142937127kWh,Rain,Little Cloudy,South West,8(m/s),56%,32c,8m,3.77kWh/m2,3.9369340553kPa,34c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Trincomalee,3.4189731385kWh,None,Sunny,South West,8(m/s),56%,28c,8m,3.79kWh/m2,3.3295055103kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Anuradhapura,2.7985649944kWh,Rain,Little Cloudy,South West,8(m/s),54%,31c,81m,3.79kWh/m2,3.330545217kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Galle,3.1878451532kWh,None,Sunny,West,5(m/s),74%,29c,0m,3.97kWh/m2,3.8546718288kPa,30c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Trincomalee,3.5446948221kWh,Rain,Little Cloudy,South West,8(m/s),56%,31c,8m,3.81kWh/m2,4.5029631073kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Kurunegala,3.2630355927kWh,None,Little Cloudy,South West,4.5(m/s),63%,30c,116m,2.5kWh/m2,3.0047210608kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes
+Galle,2.8353501059kWh,Rain,Little Cloudy,West,5(m/s),74%,25c,0m,3.95kWh/m2,3.6904677618kPa,26c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No
+Jaffna,3.586555548kWh,Rain,Cloudy,South West,10.8(m/s),74%,28c,5m,3.55kWh/m2,3.2250269983kPa,29c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+Ratnapura,3.32275643kWh,None,Little Cloudy,West,4(m/s),71%,31c,130m,2.59kWh/m2,3.9575646261kPa,32c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Jaffna,3.2918203064kWh,Rain,Sunny,South West,10.8(m/s),74%,30c,5m,3.93kWh/m2,3.3209062615kPa,31c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes
+Ratnapura,2.8623866867kWh,None,Sunny,West,4(m/s),71%,24c,130m,2.82kWh/m2,4.4781906309kPa,25c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Ratnapura,2.9069863533kWh,Rain,Sunny,West,4(m/s),71%,29c,130m,2.87kWh/m2,4.4441962723kPa,31c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No
+Colombo,2.6526543695kWh,None,Sunny,South West,2(m/s),71%,27c,1m,2.96kWh/m2,4.1831830634kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Anuradhapura,2.4272206238kWh,None,Sunny,South West,8(m/s),54%,31c,81m,3.74kWh/m2,4.3990342105kPa,33c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes
+Ratnapura,3.0096399319kWh,None,Sunny,West,4(m/s),71%,24c,130m,2.67kWh/m2,4.3567055912kPa,26c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes
+Ratnapura,3.5370415134kWh,None,Cloudy,West,4(m/s),71%,28c,130m,2.67kWh/m2,4.3182811542kPa,29c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+Kandy,2.0792960237kWh,Rain,Sunny,South West,4(m/s),66%,24c,500m,2.9kWh/m2,2.6322050044kPa,25c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+Jaffna,3.3997554137kWh,None,Little Cloudy,South West,10.8(m/s),74%,26c,5m,3.6kWh/m2,4.4520905992kPa,28c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+Colombo,2.9165376765kWh,Rain,Little Cloudy,South West,2(m/s),71%,29c,1m,2.62kWh/m2,3.9261151629kPa,31c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes
+Trincomalee,2.7070970373kWh,None,Little Cloudy,South West,8(m/s),56%,31c,8m,3.74kWh/m2,4.2334545616kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
+Galle,2.6736064886kWh,None,Cloudy,West,5(m/s),74%,30c,0m,3.67kWh/m2,3.6176219324kPa,31c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No
+Badulla,2.0628144096kWh,None,Little Cloudy,North West,1.5(m/s),46%,20c,680m,3.88kWh/m2,2.4483191672kPa,21c,1012 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Kurunegala,2.8705771326kWh,None,Cloudy,South West,4.5(m/s),63%,28c,116m,2.51kWh/m2,3.9875653304kPa,29c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
+Trincomalee,3.0283233561kWh,None,Sunny,South West,8(m/s),56%,28c,8m,3.58kWh/m2,4.6951441035kPa,30c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No
+Kurunegala,2.559478842kWh,Rain,Sunny,South West,4.5(m/s),63%,26c,116m,2.85kWh/m2,3.7110879214kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No
+Ratnapura,3.4414681146kWh,Rain,Little Cloudy,West,4(m/s),71%,23c,130m,2.64kWh/m2,3.5830944473kPa,25c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Galle,3.0289733244kWh,Rain,Sunny,West,5(m/s),74%,27c,0m,3.51kWh/m2,3.4487269579kPa,28c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Jaffna,3.1314578668kWh,None,Little Cloudy,South West,10.8(m/s),74%,30c,5m,3.99kWh/m2,3.9585482589kPa,31c,1005 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No
+Kandy,2.4279209828kWh,Rain,Sunny,South West,4(m/s),66%,28c,500m,2.74kWh/m2,2.6104629979kPa,30c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Kandy,2.1896110582kWh,Rain,Sunny,South West,4(m/s),66%,22c,500m,2.76kWh/m2,3.4793327902kPa,24c,1010 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+Badulla,1.6589901847kWh,Rain,Little Cloudy,North West,1.5(m/s),46%,22c,680m,3.87kWh/m2,2.6120411569kPa,24c,1012 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No
+Trincomalee,3.4580092146kWh,None,Cloudy,South West,8(m/s),56%,31c,8m,3.92kWh/m2,4.3083964141kPa,32c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+Jaffna,3.1888251726kWh,None,Little Cloudy,South West,10.8(m/s),74%,25c,5m,3.6kWh/m2,4.044382521kPa,26c,1005 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
+Kandy,2.303490502kWh,None,Little Cloudy,South West,4(m/s),66%,27c,500m,2.85kWh/m2,3.4777720953kPa,28c,1010 mb,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No
+Anuradhapura,2.458037339kWh,Rain,Cloudy,South West,8(m/s),54%,25c,81m,3.56kWh/m2,4.937497909kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Colombo,3.0210927771kWh,Rain,Little Cloudy,South West,2(m/s),71%,25c,1m,2.68kWh/m2,3.4869262526kPa,26c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No
+Galle,3.1412562168kWh,None,Little Cloudy,West,5(m/s),74%,28c,0m,3.5kWh/m2,3.2151207541kPa,30c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No
+Ratnapura,3.1964517278kWh,Rain,Sunny,West,4(m/s),71%,24c,130m,2.54kWh/m2,4.0964365397kPa,26c,1011 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
+Ratnapura,3.3755406479kWh,Rain,Cloudy,West,4(m/s),71%,31c,130m,2.73kWh/m2,4.2634242733kPa,33c,1011 mb,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No
+Anuradhapura,2.4849353735kWh,Rain,Little Cloudy,South West,8(m/s),54%,27c,81m,3.94kWh/m2,3.4958935011kPa,28c,1008 mb,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No
