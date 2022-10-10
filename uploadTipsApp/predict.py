@@ -1,7 +1,7 @@
 import pickle
 import pandas as pd
 
-filename = "uploadTipsApp/models/final_model.pkl"
+filename = "models/final_model.pkl"
 loaded_model=pickle.load(open(filename, 'rb'))
 
 def main(d):

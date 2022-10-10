@@ -41,8 +41,8 @@ def make_dataframes(sdir,csvpath):
     class_count=len(classes)
     return classes, class_count
 
-sdir=r'/home/aloka/Documents/Bird ML/Server/uploadImageApp/modules'
-csvpath=r'/home/aloka/Documents/Bird ML/Server/uploadImageApp/modules/birds.csv'
+sdir=r'uploadImageApp/modules'
+csvpath=r'modules/birds.csv'
 classes, class_count=make_dataframes(sdir,csvpath)  
 confidence_thr = 0.5
 CLASSES = [ "bicycle", "bird", "boat",
@@ -98,13 +98,13 @@ def ave_predictor(sdir, classes,img_shape, model_path, averaged=True, verbose=Tr
  
     return klass, prob, None
 print("[INFO] loading model...")
-shared_dir = '/home/aloka/Documents/Bird ML/AIBirdWatching/BirdWatcher/MobileNet-SSD/'
+shared_dir = 'modules/MobileNet-SSD/'
 net = cv2.dnn.readNetFromCaffe(shared_dir+ 'deploy.prototxt' , shared_dir+ 'mobilenet_iter_73000.caffemodel')
 
 def main(file_name):
     vc = cv2.imread(file_name)
     frame = applySSD(vc) 
-    model_save_loc ="/home/aloka/Documents/Bird ML/BIRDS-450-(200 X 200)-99.28.h5"
+    model_save_loc ="modules/BIRDS-450-(200 X 200)-99.28.h5"
     img_size=(200,200) 
     klass, probability,_=ave_predictor(frame,classes,img_size,  model_save_loc, averaged=True, verbose=True)
     return klass

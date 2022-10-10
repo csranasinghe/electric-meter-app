@@ -4,7 +4,7 @@ import numpy as np
 
 
 # filename = "/home/aloka/Documents/Bill reading/Server/uploadSolarApp/models/final_model.pkl"
-filename ="uploadSolarApp/models/final_model.pkl"
+filename ="models/final_model.pkl"
 loaded_model=pickle.load(open(filename, 'rb'))
 def PreProcess(df):     
     ################## 'wind speed' ########################
@@ -37,7 +37,7 @@ def PreProcess(df):
     return df
 
 def main(list_row):
-  data=pd.read_csv('uploadSolarApp/models/Dataset_New.csv')
+  data=pd.read_csv('models/Dataset_New.csv')
   data.loc[len(data)] = list_row
   data_new = PreProcess(data)
   data_new = data_new[['Province','rain fall type','sky type','wind direction','wind speed','humidity','Temperature','elevation','radiation','Vapor Pressure','Surface Temperature','Atmosphere Pressure','Bulbs','Fan','Iron','TV','Refrigerator','Blender','Air conditioner','Water Heater','Microwave Oven','Rice Cooker','usage']]
