@@ -41,8 +41,11 @@ def make_dataframes(sdir,csvpath):
     class_count=len(classes)
     return classes, class_count
 
-sdir=r'uploadImageApp/modules'
-csvpath=r'modules/birds.csv'
+module_dir = os.path.dirname(__file__)  # get current directory
+filename =
+
+sdir= os.path.join(module_dir, 'uploadImageApp/modules')
+csvpath=os.path.join(module_dir, 'modules/birds.csv')
 classes, class_count=make_dataframes(sdir,csvpath)  
 confidence_thr = 0.5
 CLASSES = [ "bicycle", "bird", "boat",
@@ -98,13 +101,13 @@ def ave_predictor(sdir, classes,img_shape, model_path, averaged=True, verbose=Tr
  
     return klass, prob, None
 print("[INFO] loading model...")
-shared_dir = 'modules/MobileNet-SSD/'
+shared_dir = os.path.join(module_dir, 'modules/MobileNet-SSD/')
 net = cv2.dnn.readNetFromCaffe(shared_dir+ 'deploy.prototxt' , shared_dir+ 'mobilenet_iter_73000.caffemodel')
 
 def main(file_name):
     vc = cv2.imread(file_name)
     frame = applySSD(vc) 
-    model_save_loc ="modules/BIRDS-450-(200 X 200)-99.28.h5"
+    model_save_loc =os.path.join(module_dir,  "modules/BIRDS-450-(200 X 200)-99.28.h5")
     img_size=(200,200) 
     klass, probability,_=ave_predictor(frame,classes,img_size,  model_save_loc, averaged=True, verbose=True)
     return klass

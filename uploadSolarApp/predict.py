@@ -1,10 +1,11 @@
+import os
 import pickle
 import pandas as pd
 import numpy as np
 
-
+module_dir = os.path.dirname(__file__)  # get current directory
 # filename = "/home/aloka/Documents/Bill reading/Server/uploadSolarApp/models/final_model.pkl"
-filename ="models/final_model.pkl"
+filename = os.path.join(module_dir, "models/final_model.pkl")
 loaded_model=pickle.load(open(filename, 'rb'))
 def PreProcess(df):     
     ################## 'wind speed' ########################
@@ -37,7 +38,7 @@ def PreProcess(df):
     return df
 
 def main(list_row):
-  data=pd.read_csv('models/Dataset_New.csv')
+  data=pd.read_csv(os.path.join(module_dir, 'models/Dataset_New.csv'))
   data.loc[len(data)] = list_row
   data_new = PreProcess(data)
   data_new = data_new[['Province','rain fall type','sky type','wind direction','wind speed','humidity','Temperature','elevation','radiation','Vapor Pressure','Surface Temperature','Atmosphere Pressure','Bulbs','Fan','Iron','TV','Refrigerator','Blender','Air conditioner','Water Heater','Microwave Oven','Rice Cooker','usage']]

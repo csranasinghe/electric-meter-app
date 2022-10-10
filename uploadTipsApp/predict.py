@@ -1,7 +1,10 @@
 import pickle
 import pandas as pd
+import os
 
-filename = "models/final_model.pkl"
+module_dir = os.path.dirname(__file__)  # get current directory
+filename = os.path.join(module_dir, "models/final_model.pkl")
+
 loaded_model=pickle.load(open(filename, 'rb'))
 
 def main(d):
