@@ -43,7 +43,7 @@ def make_dataframes(sdir,csvpath):
 
 module_dir = os.path.dirname(__file__)  # get current directory
 
-sdir= os.path.join(module_dir, 'uploadImageApp/modules')
+sdir= os.path.join(module_dir, 'modules/')
 csvpath=os.path.join(module_dir, 'modules/birds.csv')
 classes, class_count=make_dataframes(sdir,csvpath)  
 confidence_thr = 0.5
