@@ -3,14 +3,19 @@ from rest_framework.response import Response
 from rest_framework.views import APIView
 from rest_framework import status
 from .serializers import FileSerializer
+from django.conf import settings
+
 import cv2
+import os
 import pytesseract as tess
 
+module_dir = os.path.dirname(__file__)  # get current directory
 
 def func2(self, p):
     x = p.get("file")
     x = x.split('/')
-    img = cv2.imread("media/"+x[-1], cv2.IMREAD_COLOR)
+    img_path = os.path.join(settings.MEDIA_ROOT, x[-1])
+    img = cv2.imread(img_path, cv2.IMREAD_COLOR)
     roi = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
     erd = cv2.erode(roi, None, iterations=2)
     text = tess.image_to_string(roi, config="--psm 6")    
